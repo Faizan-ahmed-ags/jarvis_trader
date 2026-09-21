@@ -83,7 +83,7 @@ def _persist(symbol, meta, model):
     import joblib
 
     util.ensure_dirs()
-    path = util.DATA_DIR / f"model_{symbol}.joblib"
+    path = util.MODELS_DIR / f"model_{symbol}.joblib"
     joblib.dump({"model": model, "meta": meta}, path)
     conn = connect()
     try:

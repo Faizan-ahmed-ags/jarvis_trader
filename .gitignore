@@ -11,6 +11,9 @@ build/
 *.log
 
 # jarvis brain runtime state
-data/
+/data/*
+!/data/models/
+!/data/models/*.joblib
 secrets.json
-config.json.freebuff/
+config.json
+.freebuff/

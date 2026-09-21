@@ -24,7 +24,7 @@ from .store import recent_decisions, get_memory
 def _load_model(symbol):
     try:
         import joblib
-        path = util.DATA_DIR / f"model_{symbol}.joblib"
+        path = util.MODELS_DIR / f"model_{symbol}.joblib"
         if path.exists():
             return joblib.load(path)
     except Exception as e:

@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
+MODELS_DIR = DATA_DIR / "models"
 DB_PATH = DATA_DIR / "jarvis.db"
 LOG_PATH = DATA_DIR / "agent_activity.log"
 
@@ -44,6 +45,7 @@ def parse_iso(s):
 
 def ensure_dirs():
     DATA_DIR.mkdir(exist_ok=True)
+    MODELS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def load_json(path, default=None):
