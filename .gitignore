@@ -13,4 +13,4 @@ build/
 # jarvis brain runtime state
 data/
 secrets.json
-config.json
+config.json.freebuff/
