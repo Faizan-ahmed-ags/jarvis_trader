@@ -1,0 +1,8 @@
+2026-09-21T18:54:16Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-21T18:54:16Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-23T17:58:13Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-23T17:58:13Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-24T17:57:42Z  [LEARN]  captured MSFT buy 6@496.1599 (trade #1, ticket None)
+2026-09-24T17:57:42Z  [TRADE]  MSFT BUY 6 @ 496.1599: p=0.57 >= threshold 0.56
+2026-09-25T18:04:45Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-25T18:04:45Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
