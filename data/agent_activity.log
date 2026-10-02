@@ -1,0 +1,20 @@
+2026-09-21T18:54:16Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-21T18:54:16Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-23T17:58:13Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-23T17:58:13Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-24T17:57:42Z  [LEARN]  captured MSFT buy 6@496.1599 (trade #1, ticket None)
+2026-09-24T17:57:42Z  [TRADE]  MSFT BUY 6 @ 496.1599: p=0.57 >= threshold 0.56
+2026-09-25T18:04:45Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-25T18:04:45Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-28T20:13:58Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-28T20:13:59Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-30T18:34:12Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-09-30T18:34:13Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-09-30T18:34:23Z  [LEARN]  sim exit ledgered MSFT: pnl +127.50
+2026-09-30T18:34:23Z  [TRADE]  MSFT SELL: edge gone (p=0.35 < 0.50)
+2026-10-01T19:01:57Z  [HALAL]  MSFT: PASS — whitelisted + ratios pass
+2026-10-01T19:01:58Z  [HALAL]  NVDA: PASS — whitelisted + ratios pass
+2026-10-01T19:02:09Z  [LEARN]  captured MSFT buy 6@515.845 (trade #2, ticket None)
+2026-10-01T19:02:09Z  [TRADE]  MSFT BUY 6 @ 515.845: p=0.82 >= threshold 0.56
+2026-10-02T18:41:45Z  [LEARN]  sim exit ledgered MSFT: pnl -4.41
+2026-10-02T18:41:45Z  [TRADE]  MSFT SELL: edge gone (p=0.24 < 0.50)
